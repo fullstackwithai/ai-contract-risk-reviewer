@@ -99,4 +99,3 @@ Built by *Arsim Shefkiu* — Full Stack Web Developer & AI-Assisted Builder spec
 - 📧 info@designhubmk.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
 - 🐙 [GitHub](https://github.com/fullstackwithai)
--
