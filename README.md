@@ -2,6 +2,8 @@
 
 > An AI-powered contract analysis tool that detects risk clauses, scores contract safety, and generates negotiation-ready recommendations — built with a real Node.js backend and OpenAI API integration.
 
+Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted, and data-driven web solutions.
+
 🔗 **[Live Demo](https://fullstackwithai.github.io/ai-contract-risk-reviewer/)** &nbsp;|&nbsp; 👤 **[Portfolio](https://www.designhubmk.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
 
 ---
@@ -93,7 +95,7 @@ ai-contract-risk-reviewer/
 
 ## 👤 About
 
-Built by **Arsim Shefkiu** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products.
+Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
 
 - 🌐 [designhubmk.com](https://www.designhubmk.com)
 - 📧 info@designhubmk.com
