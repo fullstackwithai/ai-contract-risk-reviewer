@@ -1,10 +1,22 @@
 # 🤖 AI Contract Risk Reviewer
 
-> An AI-powered contract analysis tool that detects risk clauses, scores contract safety, and generates negotiation-ready recommendations — built with a real Node.js backend and OpenAI API integration.
+> AI-powered LegalTech product for contract risk detection, clause intelligence, safety scoring, and negotiation-ready recommendations.
 
-Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted, and data-driven web solutions.
+Built by **Arsim Shefkiu** under **FullStackWithAI** — AI-assisted full-stack products built around real business problems.
 
-🔗 **[Live Demo](https://fullstackwithai.github.io/ai-contract-risk-reviewer/)** &nbsp;|&nbsp; 👤 **[Portfolio](https://www.designhubmk.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
+<p align="center">
+  <img alt="LegalTech AI" src="https://img.shields.io/badge/LegalTech%20AI-Contract%20Risk%20Review-7C3AED?style=for-the-badge" />
+  <img alt="Risk Intelligence" src="https://img.shields.io/badge/Risk%20Intelligence-Clause%20Analysis-111827?style=for-the-badge" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-Node%20%2B%20Express-EC4899?style=for-the-badge" />
+  <img alt="Brand" src="https://img.shields.io/badge/FullStackWithAI-AI%20Product%20Thinking-7C3AED?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://fullstackwithai.github.io/ai-contract-risk-reviewer/"><strong>Live Demo</strong></a> ·
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
+  <strong>arsim@designhubmk.com</strong> ·
+  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+</p>
 
 ---
 
@@ -12,70 +24,101 @@ Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted
 
 ---
 
-## 🧠 What This Project Demonstrates
+## LegalTech AI Theme
 
-This is a full-stack AI product — not just a UI mockup:
+> **Analyze contracts. Detect risk. Generate negotiation-ready intelligence.**
 
-- **Real backend** — Node.js + Express server with an `/api/analyze-contract` endpoint
-- **OpenAI API integration** — wired and ready for live AI contract analysis
-- **Prompt engineering** — structured prompts for clause detection, risk scoring, and negotiation output
-- **SaaS product thinking** — polished interface designed like a real LegalTech product
-- **End-to-end architecture** — frontend ↔ API ↔ AI model flow fully designed
+This repository is presented as a polished **AI LegalTech product case study**. It is designed to show how a complex professional workflow — contract review — can become a clear SaaS-style product experience with risk scoring, clause detection, backend architecture, and actionable recommendations.
 
----
-
-## ✅ Features
-
-- **Contract Text Input** — Paste any contract text for instant analysis
-- **Risk Severity Cards** — High / Medium / Low risk clauses clearly flagged
-- **Contract Safety Score** — Numeric risk score with visual indicator
-- **Negotiation Email Draft** — AI-generated counter-proposal language
-- **Local Demo Mode** — Works without an API key for instant portfolio preview
-- **OpenAI-Ready Backend** — Full server route ready for live AI responses
-- **Mobile-Friendly SaaS UI** — Clean, professional interface across all devices
+| Theme Layer | Direction |
+|---|---|
+| **Design Identity** | Dark legal-tech interface, purple AI accents, risk-first product hierarchy |
+| **Product Feel** | AI contract review SaaS / professional decision-support tool |
+| **Audience** | Founders, freelancers, legal teams, SaaS hiring managers, AI product reviewers |
+| **Core Message** | AI workflow + backend readiness + legal risk clarity + negotiation support |
 
 ---
 
-## 🛠 Tech Stack
+## Risk Intelligence Layer
+
+| Risk Signal | Product Meaning | User Value |
+|---|---|---|
+| **High Risk Clauses** | Clauses that may create major legal or financial exposure | Prioritize what needs attention first |
+| **Medium Risk Clauses** | Terms that may need revision or negotiation | Helps users improve contract safety |
+| **Low Risk Clauses** | Minor issues or watch-list language | Adds confidence without overwhelming the user |
+| **Contract Safety Score** | Summary score for overall review quality | Makes legal complexity easier to understand |
+| **Negotiation Draft** | Suggested counter-language and email support | Turns analysis into action |
+
+---
+
+## What This Project Demonstrates
+
+| Capability | Evidence in This Repo |
+|---|---|
+| **AI Product Thinking** | Contract review transformed into structured, user-friendly analysis |
+| **Prompt Engineering** | Structured AI prompts for risk detection and recommendation output |
+| **Backend Architecture** | Node.js + Express API route for contract analysis |
+| **SaaS Interface Design** | Risk cards, severity labels, score panels, and action-oriented sections |
+| **Business Use Case** | Solves an expensive professional workflow in a practical way |
+| **Portfolio Strategy** | Shows AI, backend, UI, and business reasoning in one repo |
+
+---
+
+## Features
+
+- Contract text input for fast review
+- Risk severity cards for high, medium, and low risk clauses
+- Contract safety score with clear explanation
+- Negotiation email draft generation
+- Local demo mode for instant portfolio preview
+- OpenAI-ready backend route
+- Responsive SaaS-style user interface
+
+---
+
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
-| Frontend | HTML5, CSS3, Vanilla JavaScript |
-| Backend | Node.js, Express |
-| AI Integration | OpenAI API (`/api/analyze-contract`) |
-| Deployment | GitHub Pages (frontend) |
+| **Frontend** | HTML5, CSS3, Vanilla JavaScript |
+| **Backend** | Node.js, Express |
+| **AI Integration** | OpenAI API-ready analysis endpoint |
+| **Deployment** | GitHub Pages frontend demo |
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
-**Frontend only (demo mode):**
+Frontend demo mode:
+
 ```bash
 open index.html
 # or
 npx http-server .
 ```
 
-**Full stack with AI backend:**
+Full stack backend mode:
+
 ```bash
 npm install
 OPENAI_API_KEY=your_key_here npm start
 ```
 
-Then POST contract text to:
-```
+Backend endpoint:
+
+```text
 http://localhost:3000/api/analyze-contract
 ```
 
 ---
 
-## 📁 Project Structure
+## Project Architecture
 
-```
+```text
 ai-contract-risk-reviewer/
-├── index.html        # Frontend SaaS UI
-├── server.js         # Node.js + Express backend
-├── package.json      # Dependencies
+├── index.html
+├── server.js
+├── package.json
 ├── assets/
 │   └── screenshot.png
 └── README.md
@@ -83,43 +126,36 @@ ai-contract-risk-reviewer/
 
 ---
 
-## 🔮 Planned Improvements
+## Why This Repo Matters for Hiring Managers
 
-- [ ] Connect frontend to live backend endpoint
-- [ ] PDF upload and parsing
-- [ ] Jurisdiction selector (US, UK, EU)
-- [ ] Saved review history with authentication
-- [ ] Multi-clause comparison mode
+- It shows applied AI product thinking, not just prompt experimentation.
+- It includes a backend route and product architecture.
+- It turns a complex professional process into a usable interface.
+- It communicates risk, severity, and recommendations clearly.
+- It demonstrates business value for founders, freelancers, and legal workflows.
 
 ---
 
 ## Creator & Brand
 
-<p align="center">
-  <img alt="LegalTech AI" src="https://img.shields.io/badge/LegalTech%20AI-Contract%20Risk%20Review-7C3AED?style=for-the-badge" />
-  <img alt="Risk Intelligence" src="https://img.shields.io/badge/Risk%20Intelligence-Clause%20Analysis-111827?style=for-the-badge" />
-  <img alt="Brand" src="https://img.shields.io/badge/Built%20Under-FullStackWithAI-EC4899?style=for-the-badge" />
-</p>
-
 ### Built by **Arsim Shefkiu** under **FullStackWithAI**
 
-> **AI-powered LegalTech product thinking for contract risk detection, clause intelligence, and negotiation-ready recommendations.**
+> **LegalTech AI theme focused on contract intelligence, risk detection, clause analysis, and negotiation-ready product workflows.**
 
-| Brand Direction | Portfolio Value |
+| Creator Focus | Brand Positioning |
 |---|---|
-| **LegalTech AI workflow** | Shows ability to turn a complex professional process into software |
-| **Risk-first product design** | Demonstrates clear thinking around severity, scoring, and recommendations |
-| **Backend + AI architecture** | Proves the project is more than a static frontend mockup |
-| **Negotiation intelligence** | Positions the product as business-useful for founders, freelancers, and teams |
-
-**Professional Focus:** I build AI-assisted tools that transform complex documents, workflows, and business decisions into structured, user-friendly digital products.
-
-**Why it matters:** Hiring managers and CEOs can see applied AI product thinking, backend readiness, and the ability to design tools that solve expensive professional problems.
+| I build AI-assisted tools that transform complex documents and workflows into clear digital products. | **FullStackWithAI** represents modern portfolio work built around practical AI, polished UX, backend readiness, and real business value. |
 
 <p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+  <strong>Theme:</strong> LegalTech AI · Contract Risk Review · Clause Intelligence · Negotiation Support
 </p>
 
 <p align="center">
-  <strong>FullStackWithAI</strong> · LegalTech AI · Contract intelligence · Risk analysis · AI-assisted product thinking
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
+  <strong>arsim@designhubmk.com</strong> ·
+  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+</p>
+
+<p align="center">
+  <strong>FullStackWithAI</strong> — building AI-powered products that turn complexity into clarity.
 </p>
