@@ -93,11 +93,33 @@ ai-contract-risk-reviewer/
 
 ---
 
-## 👤 About
+## Creator & Brand
 
-Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
+<p align="center">
+  <img alt="LegalTech AI" src="https://img.shields.io/badge/LegalTech%20AI-Contract%20Risk%20Review-7C3AED?style=for-the-badge" />
+  <img alt="Risk Intelligence" src="https://img.shields.io/badge/Risk%20Intelligence-Clause%20Analysis-111827?style=for-the-badge" />
+  <img alt="Brand" src="https://img.shields.io/badge/Built%20Under-FullStackWithAI-EC4899?style=for-the-badge" />
+</p>
 
-- 🌐 [designhubmk.com](https://www.designhubmk.com)
-- 📧 info@designhubmk.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
-- 🐙 [GitHub](https://github.com/fullstackwithai)
+### Built by **Arsim Shefkiu** under **FullStackWithAI**
+
+> **AI-powered LegalTech product thinking for contract risk detection, clause intelligence, and negotiation-ready recommendations.**
+
+| Brand Direction | Portfolio Value |
+|---|---|
+| **LegalTech AI workflow** | Shows ability to turn a complex professional process into software |
+| **Risk-first product design** | Demonstrates clear thinking around severity, scoring, and recommendations |
+| **Backend + AI architecture** | Proves the project is more than a static frontend mockup |
+| **Negotiation intelligence** | Positions the product as business-useful for founders, freelancers, and teams |
+
+**Professional Focus:** I build AI-assisted tools that transform complex documents, workflows, and business decisions into structured, user-friendly digital products.
+
+**Why it matters:** Hiring managers and CEOs can see applied AI product thinking, backend readiness, and the ability to design tools that solve expensive professional problems.
+
+<p align="center">
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+</p>
+
+<p align="center">
+  <strong>FullStackWithAI</strong> · LegalTech AI · Contract intelligence · Risk analysis · AI-assisted product thinking
+</p>
